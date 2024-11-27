@@ -1,7 +1,7 @@
 const loginButton = document.querySelector(".btn");
 loginButton.addEventListener("click", (event) => {
-  event.preventDefault(); // Ngăn form gửi đi
-  window.location.href = "/project/Bank/home.html"; // Chuyển hướng đến trang Register
+  event.preventDefault(); 
+  window.location.href = "/project/Bank/home.html"; 
 });
 const sendResetMailButton = document.getElementById("sendmail");
 sendResetMailButton.addEventListener("click", (event) => {

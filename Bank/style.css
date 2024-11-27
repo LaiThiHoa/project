@@ -626,7 +626,7 @@ body{
 /*  */
 /* button logout Hoa*/
 .logout{
-    background-image: url(/img/logout.jpg);
+    background-image: url(../img/logout.jpg);
     display: flex;
     width: 100%;
     height: 92vh; /* Hoặc đặt chiều cao cụ thể */
