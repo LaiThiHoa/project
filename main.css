@@ -54,7 +54,7 @@ h2 {
   font-size: 20px;
   color: #fff;
 }
-.btn a:ho{
+.btn a:ho {
   color: black;
 }
 .input_box {
@@ -91,7 +91,7 @@ input:focus ~ label {
   top: 1px;
   font-size: 0.8em;
   padding: 2px 6px;
-  background: #1f293a ;
+  background: #1f293a;
   color: #0ef;
   border-radius: 40px;
 }
@@ -183,9 +183,9 @@ input:focus ~ label {
   justify-content: center;
   border-radius: 40px;
   /* margin-top: 50px; */
-  padding: 50px ;
+  padding: 50px;
 }
-.mail button{
+.mail button {
   width: 200px;
   height: 40px;
   margin-top: 20px;
@@ -206,10 +206,9 @@ input:focus ~ label {
   box-shadow: 0px 0px 15px rgba(0, 238, 255, 0.89);
   color: black;
 }
-.btn a:hover{
-color: black;
+.btn a:hover {
+  color: black;
 }
-
 
 /* Responsive Design for Mobile */
 @media (max-width: 768px) {

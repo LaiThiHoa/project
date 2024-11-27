@@ -875,10 +875,10 @@ body{
   
   .hero .container-hero .content-hero .title {
     position: absolute;
-    bottom: 40%;
+    top: 0%;
     color: var(--dark);
     font: italic bold 10rem var(--aud);
-    filter: drop-shadow(2px 2px 2px var(--dark));
+    filter: drop-shadow(2px 2px 2px white);
   }
   
   .hero .container-hero .content-hero .short-desc-1 {
@@ -1449,7 +1449,7 @@ body{
   }
   
   .pre-order {
-    background: url("assets/pre-order.jpeg");
+    background: url("../img/—Pngtree—man\ save\ money\ green\ yellow_3737199.png");
     background-size: cover;
     background-position: center;
     height: 50vh;
